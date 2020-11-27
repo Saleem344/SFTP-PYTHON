@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/saleem/Saleem/ARMAX_SFTP/Python Files/env/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
